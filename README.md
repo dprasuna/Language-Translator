@@ -1,7 +1,7 @@
 # Language Translator Web Application
 
 
-## Overview
+## Overview 
 
 GitHub Description for "Language Translator" Project:
  
